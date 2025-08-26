@@ -1,0 +1,7 @@
+<servers>
+  <server>
+    <id>nexus-releases</id>
+    <username>admin</username>
+    <password>4586</password>
+  </server>
+</servers>
